@@ -2,3 +2,12 @@
 log/
 # test file
 # log file test
+
+
+git config --global init.defaultBranch main
+
+git config user.name "gittestsite2"
+git config user.email "gittestsite2@gmail.com" 
+
+
+git remote set-url origin https://gittestsite2@github.com/gittestsite2/chap2.git
